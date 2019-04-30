@@ -1,1 +1,3 @@
 print("Darouu");
+print("Darouu vsem priv vsem");
+print("Darouu");
