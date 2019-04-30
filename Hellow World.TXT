@@ -1,1 +1,1 @@
-print("Darouuuu");
+print("Darouu");
